@@ -1,3 +1,10 @@
+# Vesting contracts
+
+A set of smart contracts for Vesting in (W Chain)[https://w-chain.com].
+Flexible params on creation, fixed rules after deployment.
+
+Developed using Foundry.
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
