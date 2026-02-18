@@ -125,6 +125,7 @@ sequenceDiagram
         Vest->>DAO: transfer all balance
         Vest->>Vest: set lastClaimedEpoch = totalEpochs
     end
+    end
 ```
 
 ## Storage Model
